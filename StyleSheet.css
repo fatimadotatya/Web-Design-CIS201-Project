@@ -1,0 +1,67 @@
+.header {
+ background-color:white; padding: 15px; text-align:center;
+ }
+ /* CSS property for navigation menu */
+ .nav_menu {
+ overflow: hidden; background-color:rgb(218,40,28) ;
+ }
+
+.nav_menu a {
+ float: left;
+font-family: Tahoma;
+ display: block;
+ color:white;
+ font-weight: bold;
+ text-align: center;
+ padding: 14px 16px;
+
+ }
+
+.image-row {
+ display: flex;
+ justify-content: center;
+ gap: 20px;
+ flex-wrap: wrap;
+ margin: 0 auto;
+ }
+
+.image-Menu {
+ display: flex;
+ justify-content: center;
+ gap: 30px;
+ flex-wrap: wrap;
+ margin: 0 auto;
+ }
+
+.image-Menu .menu-item {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ gap: 10px;
+ max-width: 220px;
+ }
+
+.image-Menu img {
+ display: block;
+ width: 100%;
+ height: auto;
+ border-radius: 8px;
+ }
+
+.footer{
+ 
+ background-color:white;
+ padding: 15px;
+ text-align:center;
+ list-style-image: center;
+ font-family: Tahoma
+ }
+ 
+ h1{
+        text-align: center; 
+        color: rgb(218, 40, 28); 
+        font-family: Tahoma;
+    }
+
+p {text-align: center; 
+       font-family: Tahoma;}
