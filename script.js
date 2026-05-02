@@ -1,3 +1,3 @@
 function showMessage() {
-  document.getElementById("message").textContent = "Thank you for visiting our vafe!";
+  document.getElementById("message").textContent = "Thank you for visiting our cafe!";
 }
