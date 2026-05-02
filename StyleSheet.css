@@ -71,3 +71,7 @@ font-family: Tahoma;
 
     p {text-align: center; 
        font-family: Tahoma;}
+
+body {
+  background-color: white;
+}
