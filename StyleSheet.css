@@ -73,5 +73,7 @@ font-family: Tahoma;
        font-family: Tahoma;}
 
 body {
+ margin: 0;
+ padding: 0;
   background-color: white;
 }
