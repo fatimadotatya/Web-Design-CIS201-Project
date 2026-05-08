@@ -1,3 +1,4 @@
-function showMessage() {
-  document.getElementById("message").textContent = "Thank you for visiting our cafe!";
-}
+const btn = document.getElementById('submitBtn');
+
+btn.addEventListener('click', function() {
+    alert('Thank you for contacting us!');
