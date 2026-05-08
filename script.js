@@ -1,6 +1,7 @@
-const btn = document.getElementById('submitBtn');
+document.getElementById("contactForm").addEventListener("submit", function(event) {
 
-btn.addEventListener('click', function(event) {
-    event.preventDefault(); // This stops the page from refreshing
-    alert('Thank you for contacting us!');
+    event.preventDefault();
+
+    alert("Thank you for contacting us!");
+
 });
