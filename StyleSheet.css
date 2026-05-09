@@ -88,11 +88,4 @@ background-color: #f4f2e6;
 input[type="submit"]:hover {
     background-color: #a31d16; 
 }
-input[type="text"], input[type="email"], textarea {
- width: 100%; 
- padding: 10px;
- margin-top: 5px;
- margin-bottom: 15px;
-border: 1px solid #ccc;
-border-radius: 4px;
-}
+
